@@ -10,5 +10,5 @@
     <string name="hello_first_fragment">Changes Done by Hitesh</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="new_release_text">Alpha</string>
-
+    <string name="hotfix_release_text">Hotfix Alpha 1</string>
 </resources>
